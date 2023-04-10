@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on *Budget Tracker*
 
-- 🌱 I’m currently learning *React.JS & DSA*
+- 🌱 I’m currently learning *ReactJS & DSA*
 
 - 🤝 I’m looking for help with *Budget Tracker*
 
