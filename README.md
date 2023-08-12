@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *harshitagrwl911@gmail.com*
 
-- ⚡ Fun fact *I think I am funny.*
+- ⚡ I don't like to use mouse. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
