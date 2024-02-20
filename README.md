@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9369&label=Profile%20views&color=0e75b6&style=flat" alt="harshit9369" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshit_721" target="blank"><img src="https://img.shields.io/twitter/follow/harshit_721?logo=twitter&style=for-the-badge" alt="harshit_721" /></a> </p>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/omnivec-learning-robust-representations-with/image-classification-on-imagenet)](https://paperswithcode.com/sota/image-classification-on-imagenet?p=omnivec-learning-robust-representations-with)
 
 - 🔭 I’m currently working on *Budget Tracker*
 
